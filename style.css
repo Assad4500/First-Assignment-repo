@@ -1,0 +1,62 @@
+body{
+    font-family: 'Merriweather', serif;
+font-family: 'Poppins', sans-serif;
+}
+h1{
+    color: black;
+    font-weight: 700;
+    font-size: 50px;
+    padding-top: 20px;
+    padding-left: 30px;
+    line-height: 25px;
+
+    
+}
+.kocu{
+    color:coral;
+}
+section{
+    display: flex;
+}
+.Stay{
+    width: 50%;
+    padding-left: 10%;
+}
+.img{
+    width: 50%;
+    size: 50px;
+    padding-left: 5%;
+    padding-top: 5%;
+    
+    
+
+}
+.link-button{
+    background-image: linear-gradient(coral,orange);
+    font-weight: bold;
+    padding: 10px;
+    font-size: 20px;
+
+
+}
+p{
+    text-align: left
+}
+.mission{
+    text-align: center;
+    background-image: linear-gradient(coral,orange);
+    
+    font-weight: 700;
+    padding-bottom: 20px;
+}
+
+.my-mission{
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+ margin-left: 130px;
+}
+
+.my-mission img{
+    width: 50%;
+}
