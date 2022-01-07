@@ -12,7 +12,7 @@ a{
 }
 
 .title{ 
-    color:coral;
+    color:rgba(80, 200, 255, 0.938);
 }
 
 
@@ -22,11 +22,10 @@ section{
 }
 
 
-.Stay{
+.First-Title{
     width: 50%;
     padding-left: 10%;
 }
-
 
 .img{
     width: 50%;
@@ -35,10 +34,9 @@ section{
     padding-top: 5%;
 }
 
-
 .link-button{
     border-radius: 10px;
-    background-image: linear-gradient(coral,orange);
+    background-image: linear-gradient(#50e5ff,#00ccff);
     font-weight: bold;
     padding: 10px 50px;
     font-size: 20px;
@@ -51,7 +49,9 @@ section{
     font-weight: 700;
     padding-bottom: 20px;
 }
-
+.Year-color{
+    color:rgba(80, 200, 255, 0.938);
+}
 .my-mission{
  display: flex;
  align-items: center;
@@ -66,21 +66,21 @@ section{
 }
 
 .mission1{
-    background-color: rgba(0, 255, 255, 0.5);
+    background-color: rgba(0, 162, 255, 0.5);
     border-radius: 10px;
-    padding: 10px;
+    padding: 20px;
     margin-right: 50px;
 }
 .mission2{
-    background-color: rgba(207, 32, 32, 0.5);
+    background-color: rgba(32, 207, 105, 0.5);
     border-radius: 10px;
-    padding: 10px;
+    padding: 20px;
     margin-right: 50px;
 }
 .mission3{
-    background-color: rgba(59, 247, 159, 0.5);
+     background-color: rgba(0, 162, 255, 0.5);
 border-radius: 10px;
-    padding: 10px;
+    padding: 20px;
     margin-right: 50px;
 }
 
@@ -102,7 +102,7 @@ border-radius: 10px;
     margin: 10%;
 }
 .mission5 img{
-    width: 60%;
+    width: 75%;
 }
 .global{
     display: flex;
